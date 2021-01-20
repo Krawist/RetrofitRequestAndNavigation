@@ -1,0 +1,24 @@
+cm/seeds/retrofitrequestandnavigation/databinding/ActivityMainBinding.java
+ cm.seeds.retrofitrequestandnavigation.databinding.ActivityMainBinding
+cm/seeds/retrofitrequestandnavigation/DataBinderMapperImpl.java
+ cm.seeds.retrofitrequestandnavigation.DataBinderMapperImpl
+ cm.seeds.retrofitrequestandnavigation.DataBinderMapperImpl$InnerBrLookup
+ cm.seeds.retrofitrequestandnavigation.DataBinderMapperImpl$InnerLayoutIdLookup
+cm/seeds/retrofitrequestandnavigation/databinding/ActivityMainBindingImpl.java
+ cm.seeds.retrofitrequestandnavigation.databinding.ActivityMainBindingImpl
+cm/seeds/retrofitrequestandnavigation/databinding/FragmentFirstBindingImpl.java
+ cm.seeds.retrofitrequestandnavigation.databinding.FragmentFirstBindingImpl
+cm/seeds/retrofitrequestandnavigation/databinding/FragmentFirstBinding.java
+ cm.seeds.retrofitrequestandnavigation.databinding.FragmentFirstBinding
+androidx/databinding/DataBinderMapperImpl.java
+ androidx.databinding.DataBinderMapperImpl
+cm/seeds/retrofitrequestandnavigation/BR.java
+ cm.seeds.retrofitrequestandnavigation.BR
+cm/seeds/retrofitrequestandnavigation/DataBindingTriggerClass.java
+ cm.seeds.retrofitrequestandnavigation.DataBindingTriggerClass
+androidx/databinding/library/baseAdapters/BR.java
+ androidx.databinding.library.baseAdapters.BR
+androidx/databinding/DataBindingComponent.java
+ androidx.databinding.DataBindingComponent
+cm/seeds/retrofitrequestandnavigation/BuildConfig.java
+ cm.seeds.retrofitrequestandnavigation.BuildConfig
